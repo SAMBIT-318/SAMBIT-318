@@ -26,6 +26,5 @@ I'm an MCA student specializing in **Data Analytics and Machine Learning**, pass
 ![](https://github-contributor-stats.vercel.app/api?username=SAMBIT-318&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=SAMBIT-318&icon=0&color=1)](https://visitcount.itsvg.in)
-
+[![Profile Views](https://komarev.com/ghpvc/?username=SAMBIT-318&label=Profile%20Views&color=brightgreen&style=for-the-badge)](https://github.com/SAMBIT-318)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
